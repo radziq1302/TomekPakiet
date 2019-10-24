@@ -5,7 +5,10 @@
     invisible()
 }
 
-
+#' mean function
+#'
+#' @param a A number
+#' @return The mean of \code{a} 
 
 srednia <- function(a) {
   #my_mean <- vector(mode="numeric", length=length(a))

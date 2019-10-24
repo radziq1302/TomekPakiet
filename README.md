@@ -1,6 +1,6 @@
 # TomekPakiet
 
-[![Build Status](https://travis-ci.org/radziq/TomekPakiet.png?branch=master)](https://travis-ci.org/radziq/TomekPakiet)  [![codecov](https://codecov.io/gh/radziq/TomekPakiet/branch/master/graph/badge.svg)](https://codecov.io/gh/radziq/TomekPakiet)
+[![Build Status](https://travis-ci.org/radziq1302/TomekPakiet.png?branch=master)](https://travis-ci.org/radziq1302/TomekPakiet)  [![codecov](https://codecov.io/gh/radziq1302/TomekPakiet/branch/master/graph/badge.svg)](https://codecov.io/gh/radziq1302/TomekPakiet)
 
 ## How to finish setting up your new package
 
